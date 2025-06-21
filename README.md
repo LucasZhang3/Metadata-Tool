@@ -29,7 +29,7 @@ pip install streamlit python-docx pikepdf
 ```
 
 ### Install ExifTool
-Windows: Download and install from exiftool.org
+Windows: Download and install from [ExifTool](https://exiftool.org/)
 
 MacOS: Use Homebrew brew install exiftool
 
